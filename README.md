@@ -16,7 +16,7 @@ La planificación es tentativa. Será oficial una vez sea publicado el enunciado
 
 | Laboratorio |                         Enlace                        | Titulo 			| Nivel |   Fecha     |
 |:-----------:|:-----------------------------------------------------:|:--------------:	| :---: |:-----------:|
-|      1      | [En desarrollo!](https://classroom.github.com/a/8ZvjG4Vv) | Introducción a C  	| 	1	| 13 - septiembre  |
+|      1      | [Haz Click!](https://classroom.github.com/a/8ZvjG4Vv) | Introducción a C  	| 	1	| 13 - septiembre  |
 | 	   2 	  | [En desarrollo!](https://github.com/IEE2463/classroom) | GPIOs |	2	| 29 - septiembre |
 | 	   3 	  | [En desarrollo!](https://github.com/IEE2463/classroom) | Timers e Interrupciones       |	2	| 13 - octubre |
 | 	   4 	  | [En desarrollo!](https://github.com/IEE2463/classroom) | ADC - UART		|	3	| 10 - noviembre  |
