@@ -36,8 +36,8 @@ La planificación es tentativa. Será oficial una vez sea publicado el enunciado
 
 | Nombre |	Correo 	| Usuario |
 |:------:|:--------:|:-------:|
-| Matías Woolvet | jiruiz5@uc.cl	 | [@j4vito](https://github.com/j4vito) |
-| Javier Ruiz |  mwoolvett@uc.cl  | [@mwoolvett](https://github.com/fer-guzman) | 
+| Matías Woolvett|  mwoolvett@uc.cl  | [@mwoolvett](https://github.com/fer-guzman) |
+| Javier Ruiz | jiruiz5@uc.cl	 | [@j4vito](https://github.com/j4vito) |
 | Alvaro Olivares| aolivares996@uc.cl	 | [@aolivares12](https://github.com/aolivares12) | 
 
 
