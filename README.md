@@ -17,12 +17,12 @@ La planificación es tentativa. Será oficial una vez sea publicado el enunciado
 | Laboratorio |                         Enlace                        | Titulo 			| Nivel |   Fecha     |
 |:-----------:|:-----------------------------------------------------:|:--------------:	| :---: |:-----------:|
 |      1      | [Haz Click!](https://classroom.github.com/a/8ZvjG4Vv) | Introducción a C  	| 	1	| 13 - septiembre  |
-| 	   2 	  | [En desarrollo!](https://github.com/IEE2463/classroom) | GPIOs |	2	| 29 - septiembre |
-| 	   3 	  | [En desarrollo!](https://github.com/IEE2463/classroom) | Timers e Interrupciones       |	2	| 13 - octubre |
-| 	   4 	  | [En desarrollo!](https://github.com/IEE2463/classroom) | ADC - UART		|	3	| 10 - noviembre  |
-| 	   5 	  | [En desarrollo!](https://github.com/IEE2463/classroom) | Protocolos de comunicacion|	4	| 22 - noviembre  |
+| 	   2 	  | [En desarrollo!](https://github.com/IEE2463/classroom) | GPIOs |	2	| 4 - octubre |
+| 	   3 	  | [En desarrollo!](https://github.com/IEE2463/classroom) | Timers e Interrupciones       |	2	| por definir |
+| 	   4 	  | [En desarrollo!](https://github.com/IEE2463/classroom) | ADC - UART		|	3	| por definir |
+| 	   5 	  | [En desarrollo!](https://github.com/IEE2463/classroom) | Protocolos de comunicacion|	4	| por definir  |
 | 	   Bonus	  | [En desarrollo!](https://github.com/IEE2463/classroom) | IoT		|	-	| Por definir  |
-|  Proyecto	  | [En desarrollo!](https://github.com/IEE2463/classroom)|  Proyecto		|	-	| 13 - diciembre  |
+|  Proyecto	  | [En desarrollo!](https://github.com/IEE2463/classroom)|  Proyecto		|	-	| por definir  |
 
 
 ## Equipo
