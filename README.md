@@ -20,7 +20,7 @@ La planificación es tentativa. Será oficial una vez sea publicado el enunciado
 | 	   2 	  | [Haz Click!](https://classroom.github.com/a/zQ64E_pV) | GPIOs |	2	| 4 - octubre |
 | 	   3 	  | [Haz Click!](https://classroom.github.com/a/XH5MCgcv) | Timers e Interrupciones       |	2	| 29 de octubre |
 | 	   4 	  | [Haz Click!](https://classroom.github.com/a/6aXl3qUI) | ADC - UART		|	3	| 17 noviembre |
-| 	   5 	  | [En desarrollo!](https://github.com/IEE2463/classroom) | Protocolos de comunicacion|	4	| 1 de diciembre  |
+| 	   5 	  | [Haz Click!](https://classroom.github.com/a/YOJf35p0) | Protocolos de comunicacion|	4	| 1 de diciembre  |
 | 	   Bonus	  | [En desarrollo!](https://github.com/IEE2463/classroom) | IoT		|	-	| 6 de diciembre  |
 |  Proyecto	  | [En desarrollo!](https://github.com/IEE2463/classroom)|  Proyecto		|	-	| 20 de diciembre  |
 
